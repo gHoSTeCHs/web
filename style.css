@@ -183,7 +183,7 @@ input {
 }
 
 /* MEDIA QUERIES */
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 550px) {
 	.toggle {
 		display: flex;
 		flex: none;
